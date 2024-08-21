@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "csv-parser": "^3.0.0",
+    "json-2-csv": "^5.5.5"
+  },
+  "name": "csv-masker",
+  "version": "1.0.0",
+  "description": "Transform or mask your CSV data",
+  "main": "index.js",
+  "repository": "https://github.com/owenrb/csv-masker.git",
+  "author": "Owen Bringino <owenrbee@gmail.com>",
+  "license": "MIT"
+}
